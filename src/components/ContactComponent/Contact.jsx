@@ -34,7 +34,7 @@ const Contact = () => {
                 <i className="bi bi-telephone flex-shrink-0"></i>
                 <div>
                   <h3>Call Us</h3>
-                  <p>+91 8871349570</p>
+                  <p>+91 9754682432</p>
                 </div>
               </div>
               {/* End Info Item */}
