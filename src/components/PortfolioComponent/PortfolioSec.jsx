@@ -7,10 +7,8 @@ const PortfolioSec = () => {
         <div className="container section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-            fugiat sit in iste officiis commodi quidem hic quas.
+            I have created some projects which I have building to improve my
+            knowledge and skills .
           </p>
         </div>
         {/* End Section Title */}
@@ -22,18 +20,6 @@ const PortfolioSec = () => {
             data-layout="masonry"
             data-sort="original-order"
           >
-            <ul
-              className="portfolio-filters isotope-filters"
-              data-aos="fade-up"
-              data-aos-delay="100"
-            >
-              <li data-filter="*" className="filter-active">
-                All
-              </li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-product">Card</li>
-              <li data-filter=".filter-branding">Web</li>
-            </ul>
             {/* End Portfolio Filters */}
 
             <div
@@ -71,27 +57,19 @@ const PortfolioSec = () => {
 
               <div className="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
                 <img
-                  src="assets/img/masonry-portfolio/masonry-portfolio-2.jpg"
+                  src="assets/img/masonry-portfolio/image.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-info">
-                  <h4>Product 1</h4>
-                  <p>Lorem ipsum, dolor sit</p>
+                  <h4>The Shipping War</h4>
+                  <p>Your Gateway to any destination in the world.</p>
                   <a
-                    href="assets/img/masonry-portfolio/masonry-portfolio-2.jpg"
-                    title="Product 1"
-                    data-gallery="portfolio-gallery-product"
+                    href="https://the-shipping-war.vercel.app/"
+                    title="Shipping War"
                     className="glightbox preview-link"
                   >
                     <i className="bi bi-zoom-in"></i>
-                  </a>
-                  <a
-                    href="portfolio-details.html"
-                    title="More Details"
-                    className="details-link"
-                  >
-                    <i className="bi bi-link-45deg"></i>
                   </a>
                 </div>
               </div>

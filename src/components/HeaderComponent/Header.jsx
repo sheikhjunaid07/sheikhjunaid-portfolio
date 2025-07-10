@@ -12,7 +12,10 @@ const Header = () => {
         <nav id="navmenu" className="navmenu">
           <ul>
             <li>
-              <Link to="/" className="active">
+              <Link
+                to="/"
+                //  className="active"
+              >
                 {" "}
                 {/* className="active"*/}
                 <i className="bi bi-house navicon"></i>
@@ -23,6 +26,12 @@ const Header = () => {
               <Link to="/about">
                 <i className="bi bi-person navicon"></i>
                 <span>About</span>
+              </Link>
+            </li>
+            <li>
+              <Link to="/skills">
+                <i className="bi bi-person navicon"></i>
+                <span>Skills</span>
               </Link>
             </li>
             <li>

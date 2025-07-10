@@ -7,6 +7,7 @@ import Home from "./components/HomeComponent/Home";
 import PortfolioSec from "./components/PortfolioComponent/PortfolioSec";
 import Resume from "./components/ResumeComponent/Resume";
 import Services from "./components/ServicesComponent/Services";
+import Skills from "./components/SkillsComponent/Skills";
 
 function App() {
   return (
@@ -16,12 +17,12 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/about" element={<About />}></Route>
+        <Route path="/skills" element={<Skills />}></Route>
         <Route path="/resume" element={<Resume />}></Route>
         <Route path="/portfolio" element={<PortfolioSec />}></Route>
         <Route path="/services" element={<Services />}></Route>
         <Route path="/contact" element={<Contact />}></Route>
       </Routes>
-     
     </>
   );
 }

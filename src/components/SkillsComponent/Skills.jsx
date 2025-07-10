@@ -6,10 +6,7 @@ const Skills = () => {
         {/* Section Title */}
         <div className="container section-title" data-aos="fade-up">
           <h2>Skills</h2>
-          <p>
-            Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
-            consectetur velit
-          </p>
+          <p>Skills I have as a Developer or as a Team member.</p>
         </div>
         {/* End Section Title */}
 
@@ -35,16 +32,16 @@ const Skills = () => {
 
               <div className="progress">
                 <span className="skill">
-                  <span>React JS</span> <i className="val">90%</i>
+                  <span>React JS</span> <i className="val">70%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
                     className="progress-bar"
                     role="progressbar"
-                    aria-valuenow="90"
+                    aria-valuenow="70"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style={{ width: "90%" }}
+                    style={{ width: "70%" }}
                   ></div>
                 </div>
               </div>
@@ -52,16 +49,16 @@ const Skills = () => {
 
               <div className="progress">
                 <span className="skill">
-                  <span>Express JS</span> <i className="val">95%</i>
+                  <span>Express JS</span> <i className="val">70%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
                     className="progress-bar"
                     role="progressbar"
-                    aria-valuenow="75"
+                    aria-valuenow="70"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style={{ width: "95%" }}
+                    style={{ width: "70%" }}
                   ></div>
                 </div>
               </div>

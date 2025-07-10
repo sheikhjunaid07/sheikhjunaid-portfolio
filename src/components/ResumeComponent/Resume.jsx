@@ -7,10 +7,8 @@ const Resume = () => {
         <div className="container section-title" data-aos="fade-up">
           <h2>Resume</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex
-            aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos
-            quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia
-            fugiat sit in iste officiis commodi quidem hic quas.
+            My Journey from very starting to till Now to be a Full Stack
+            Developer.
           </p>
         </div>
         {/* End Section Title */}
@@ -49,9 +47,14 @@ const Resume = () => {
                   </em>
                 </p>
                 <p>
-                  Qui deserunt veniam. Et sed aliquam labore tempore sed
-                  quisquam iusto autem sit. Ea vero voluptatum qui ut
-                  dignissimos deleniti nerada porti sand markend
+                  During my MCA from 2020 to 2022, I faced the unique challenge
+                  of adapting to online learning due to the COVID-19 pandemic.
+                  This experience taught me valuable lessons both academically
+                  and personally. I gained knowledge about some programming
+                  languages, like Python and Java, and developed skills in web
+                  development. Working on various projects allowed me to apply
+                  these skills in practical scenarios, enhancing my
+                  understanding of theoretical concepts.
                 </p>
               </div>
               {/* Edn Resume Item */}
@@ -63,10 +66,15 @@ const Resume = () => {
                   <em>Pandit Jawaharlal Nehru Govt. College, Nepanagar</em>
                 </p>
                 <p>
-                  Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
-                  reiciendis et quis Eius vel ratione eius unde vitae rerum
-                  voluptates asperiores voluptatem Earum molestiae consequatur
-                  neque etlon sader mart dila
+                  "During my B.Sc. in Computer Science, I experienced a unique
+                  learning environment where lectures were not conducted on a
+                  daily basis, which placed a strong emphasis on self-study.
+                  This structure taught me valuable lessons about taking
+                  initiative and responsibility for my own education. Through
+                  self-directed learning, I explored various topics in depth,
+                  such as programming languages like C, and C++This independent
+                  study allowed me to develop a strong foundation in computer
+                  science principles.
                 </p>
               </div>
               {/* Edn Resume Item */}
