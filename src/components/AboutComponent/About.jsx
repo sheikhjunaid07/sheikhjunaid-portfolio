@@ -58,7 +58,7 @@ const About = () => {
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Phone:</strong> <span>+91 8871349570</span>
+                      <strong>Phone:</strong> <span>+91 9754682432</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
@@ -74,27 +74,16 @@ const About = () => {
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Degree:</strong> <span>Master</span>
+                      <strong>Degree:</strong> <span>MCA</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
                       <strong>Email:</strong>{" "}
                       <span>sheikhjunaid732000@gmail.com</span>
                     </li>
-                    <li>
-                      <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Freelance:</strong> <span>Available</span>
-                    </li>
                   </ul>
                 </div>
               </div>
-              {/* <p className="py-3">
-                Officiis eligendi itaque labore et dolorum mollitia officiis
-                optio vero. Quisquam sunt adipisci omnis et ut. Nulla
-                accusantium dolor incidunt officia tempore. Et eius omnis.
-                Cupiditate ut dicta maxime officiis quidem quia. Sed et
-                consectetur qui quia repellendus itaque neque.
-              </p> */}
             </div>
           </div>
         </div>

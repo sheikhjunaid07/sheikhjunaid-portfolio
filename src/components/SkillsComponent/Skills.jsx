@@ -135,7 +135,7 @@ const Skills = () => {
 
               <div className="progress">
                 <span className="skill">
-                  <span>Problem Solver</span> <i className="val">85%</i>
+                  <span>Problem Solver</span> <i className="val">75%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
@@ -144,7 +144,7 @@ const Skills = () => {
                     aria-valuenow="55"
                     aria-valuemin="0"
                     aria-valuemax="100"
-                    style={{ width: "85%" }}
+                    style={{ width: "75%" }}
                   ></div>
                 </div>
               </div>
