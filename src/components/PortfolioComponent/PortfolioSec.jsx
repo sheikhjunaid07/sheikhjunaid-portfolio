@@ -7,8 +7,8 @@ const PortfolioSec = () => {
         <div className="container section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
           <p>
-            I have created some projects which I have building to improve my
-            knowledge and skills .
+            Listed some of the most recent projects I've worked on to enhance my
+            knowledge and skills.
           </p>
         </div>
         {/* End Section Title */}
