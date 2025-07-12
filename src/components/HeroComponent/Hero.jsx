@@ -1,9 +1,9 @@
 // import Typed from "typed.js";
-
+import "./Hero.css";
 const Hero = () => {
   return (
     <>
-      {/* /Hero Section */}
+      {/* Hero Section */}
       <section id="hero" class="hero section light-background">
         <img src="assets/img/bg-image.jpg" alt="" />
 
@@ -25,6 +25,7 @@ const Hero = () => {
                 ></span>
               </p>
               <div class="social-links">
+                {/* <a href="#"><i class="bi bi-twitter-x"></i></a> */}
                 <a
                   target="_blank"
                   href="https://www.linkedin.com/in/sheikh-junaid-76a2a31bb/"
@@ -34,7 +35,6 @@ const Hero = () => {
                 <a target="_blank" href="https://github.com/sheikhjunaid07">
                   <i class="bi bi-github"></i>
                 </a>
-
                 <a
                   target="_blank"
                   href="https://www.facebook.com/sheikh.junaid.0717"
