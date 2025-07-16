@@ -18,6 +18,15 @@ const Footer = () => {
             <a target="_blank" href="https://medium.com/@sheikhjunaid07">
               <i class="bi bi-medium"></i>
             </a>
+            <a target="_blank" href="/">
+              <i class="bi bi-twitter-x"></i>
+            </a>
+            <a
+              target="_blank"
+              href="https://www.instagram.com/_sheikhjunaid07_/"
+            >
+              <i class="bi bi-instagram"></i>
+            </a>
             <a
               target="_blank"
               href="https://www.facebook.com/sheikh.junaid.0717"

@@ -31,7 +31,7 @@ const Resume = () => {
                 </p>
                 <ul>
                   <li>Chandralok Square, Indore </li>
-                  <li>+91 8871349570</li>
+                  <li>+91 9754682432</li>
                   <li>sheikhjunaid732000@gmail.com</li>
                 </ul>
               </div>

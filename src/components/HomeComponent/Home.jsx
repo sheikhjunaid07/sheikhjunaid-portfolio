@@ -25,25 +25,16 @@ function Home() {
     <>
       <main className="main">
         <Hero />
-
         <About />
-
         {/* <Stats /> */}
-
         <Skills />
-
         <Resume />
-
         <PortfolioSec />
-
         <Services />
-
         {/* <Testimonial /> */}
-
         <Contact />
       </main>
       <Footer />
-
       {/* Scroll Top */}
       <a
         href="/"
