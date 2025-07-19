@@ -82,8 +82,8 @@ const PortfolioSec = () => {
                   alt=""
                 />
                 <div className="portfolio-info">
-                  <h4>Branding 1</h4>
-                  <p>Lorem ipsum, dolor sit</p>
+                  <h4>Food Blog</h4>
+                  <p>A Food Blog Website in React.</p>
                   <a
                     href="assets/img/masonry-portfolio/masonry-portfolio-3.jpg"
                     title="Branding 1"
