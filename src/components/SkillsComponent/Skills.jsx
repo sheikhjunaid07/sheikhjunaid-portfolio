@@ -84,7 +84,7 @@ const Skills = () => {
             <div className="col-lg-6">
               <div className="progress">
                 <span className="skill">
-                  <span>Adoptability</span> <i className="val">95%</i>
+                  <span>Adaptability</span> <i className="val">90%</i>
                 </span>
                 <div className="progress-bar-wrap">
                   <div
